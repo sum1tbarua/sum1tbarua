@@ -4,8 +4,8 @@
   <a href="https://github.com/sum1tbarua">
     <img src="https://img.shields.io/badge/GitHub-sum1tbarua-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/sumit-barua/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/sumit-barua/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Barua-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20Systems%20%7C%20ML%20%7C%20Backend-informational?style=for-the-badge" />
 </p>
@@ -19,10 +19,10 @@
 
 ## 🧠 What I Do
 
-- 🔹 Build **AI-powered systems** (RAG, computer vision, ML pipelines)
-- 🔹 Design **explainable and reliable ML frameworks**
-- 🔹 Develop **production-style Python tools (CLI + backend systems)**
-- 🔹 Focus on **real-world deployment, not just models**
+- Build **AI-powered systems** (RAG, computer vision, ML pipelines)  
+- Design **explainable and reliable ML frameworks**  
+- Develop **production-style Python tools (CLI + backend systems)**  
+- Focus on **real-world deployment and system design**  
 
 ---
 
@@ -36,32 +36,38 @@
 </p>
 
 - Retrieval-Augmented Generation (RAG) for reliable decision systems  
-- Explainable AI (XAI) in healthcare  
+- Explainable AI (XAI) in healthcare applications  
 - Data engineering + ML pipelines  
-- CLI tools & backend development  
+- CLI tools & backend systems  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧾 RAG-Based Housing Law QA System
-- Evidence-grounded legal Q&A system
-- Reduces hallucination using retrieval + validation
-- Built with vector search + LLM integration  
+- Evidence-grounded legal Q&A system  
+- Reduces hallucination via retrieval + validation  
+- Built with vector search and LLM integration  
+
+🔗 https://github.com/sum1tbarua/RAG-Based-Housing-Law-QA-System
 
 ---
 
 ### 🩺 Wound Detection App
-- YOLOv11 segmentation + LLM reasoning
-- Explainable first-aid recommendation system
+- YOLOv11 segmentation + LLM reasoning  
+- Explainable first-aid recommendation system  
 - Real-world healthcare AI pipeline  
+
+🔗 https://github.com/sum1tbarua/wound_detection_app
 
 ---
 
 ### 🛠️ Data Toolkit CLI
-- CLI tool for CSV inspection & analysis
-- Supports filtering, sorting, ranking, summaries
-- Clean architecture + logging + modular design  
+- Command-line tool for CSV inspection and analysis  
+- Supports filtering, sorting, ranking, and summaries  
+- Designed with clean architecture and logging  
+
+🔗 https://github.com/sum1tbarua/Data_Toolkit_CLI
 
 ---
 
@@ -92,9 +98,9 @@
 
 I focus on building:
 
-- ✔ Trustworthy AI systems  
-- ✔ Explainable ML pipelines  
-- ✔ Real-world deployable AI applications  
+- Trustworthy AI systems  
+- Explainable ML pipelines  
+- Real-world deployable AI applications  
 
 With applications in:
 
@@ -110,7 +116,7 @@ With applications in:
   <a href="https://github.com/sum1tbarua">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/sumit-barua/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
