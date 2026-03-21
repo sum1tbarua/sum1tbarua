@@ -58,7 +58,7 @@
 ---
 
 ### 🩺 Wound Detection App
-- YOLOv11 segmentation + LLM reasoning  
+- YOLOv11 segmentation + Mistral local LLM reasoning  
 - Explainable first-aid recommendation system  
 - Real-world healthcare AI pipeline  
 
@@ -66,12 +66,12 @@
 
 ---
 
-### 🛠️ Data Toolkit CLI
-- Command-line tool for CSV inspection and analysis  
-- Supports filtering, sorting, ranking, and summaries  
-- Designed with clean architecture and logging  
+### 🛠️ Explainable Behavioral Diabetes Predictor
+- Takes behavioral, demographic, and anthropometric details as inputs  
+- Performs real-time analysis and prediction of 3 classes (Diabetic, Prediabetic, and Non-diabetic)  
+- Uses explainable AI, SHAP to break down feature contributions to prediction results  
 
-🔗 https://github.com/sum1tbarua/Data_Toolkit_CLI
+🔗 https://github.com/sum1tbarua/behavioral-diabetes-predictor
 
 ---
 
