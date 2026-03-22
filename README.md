@@ -57,7 +57,7 @@
 
 ---
 
-### 🩺 Wound Detection and First-Aid Recommendation Application
+### ⚕️AI Wound Detection and First-Aid Recommendation Application
 - YOLOv11 for wound segmentation + ResNet-50 for anatomical classification
 - Grad-CAM heatmap generation
 - Mistral AI via Ollama for first-aid generation
@@ -68,7 +68,7 @@
 
 ---
 
-### 🛠️ Explainable Behavioral Diabetes Predictor
+### 🩺 Explainable AI Behavioral Diabetes Predictor
 - Takes behavioral, demographic, and anthropometric details as inputs  
 - Performs real-time analysis and prediction of 3 classes (Diabetic, Prediabetic, and Non-diabetic)  
 - Uses explainable AI, SHAP, to break down feature contributions to prediction results  
