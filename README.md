@@ -58,8 +58,10 @@
 ---
 
 ### 🩺 Wound Detection App
-- YOLOv11 segmentation + Mistral local LLM reasoning  
-- Explainable first-aid recommendation system  
+- YOLOv11 for wound segmentation + ResNet-50 for anatomical classification
+- Grad-CAM heatmap generation
+- Mistral AI via Ollama for first-aid generation
+- LLM-XAI using natural language explanation for interpretation 
 - Real-world healthcare AI pipeline  
 
 🔗 https://github.com/sum1tbarua/wound_detection_app
@@ -69,7 +71,7 @@
 ### 🛠️ Explainable Behavioral Diabetes Predictor
 - Takes behavioral, demographic, and anthropometric details as inputs  
 - Performs real-time analysis and prediction of 3 classes (Diabetic, Prediabetic, and Non-diabetic)  
-- Uses explainable AI, SHAP to break down feature contributions to prediction results  
+- Uses explainable AI, SHAP, to break down feature contributions to prediction results  
 
 🔗 https://github.com/sum1tbarua/behavioral-diabetes-predictor
 
