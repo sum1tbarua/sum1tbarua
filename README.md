@@ -48,7 +48,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧾 RAG-Based Housing Law QA System
+### ⚖️ RAG-Based Housing Law QA System
 - Evidence-grounded legal Q&A system  
 - Reduces hallucination via retrieval + validation  
 - Built with vector search and LLM integration  
