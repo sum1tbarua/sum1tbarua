@@ -57,7 +57,7 @@
 
 ---
 
-### 🩺 Wound Detection App
+### 🩺 Wound Detection and First-Aid Recommendation Application
 - YOLOv11 for wound segmentation + ResNet-50 for anatomical classification
 - Grad-CAM heatmap generation
 - Mistral AI via Ollama for first-aid generation
