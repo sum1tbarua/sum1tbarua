@@ -2,7 +2,7 @@
   <img src="banner_img.png" width="100%" />
 </p>
 
-# 👋 Hi, I'm Sumit Barua
+# 👋 Hi, I'm Sumit 
 
 <p>
   <a href="https://github.com/sum1tbarua">
