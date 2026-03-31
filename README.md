@@ -92,14 +92,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sum1tbarua&show_icons=true&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Research Direction
 
 I focus on building:
