@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="banner_img.png" width="100%" />
-</p>
+</p> -->
 
 # 👋 Hi, I'm Sumit 
 
