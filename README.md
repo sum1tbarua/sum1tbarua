@@ -106,15 +106,3 @@ With applications in:
 - Secure AI systems  
 - Reliable LLM-based systems  
 
----
-
-## 📫 Connect
-
-<!-- <p>
-  <a href="https://github.com/sum1tbarua">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sumit-barua/" target = "_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p> -->
